@@ -31,7 +31,7 @@
 * <small>https://vk.com/viktor1984</small>
 
 
-[avatar]: https://raw.githubusercontent.com/viktor-gorinskiy/about_me/master/images/ya100x150.jpg "Ссылка на автарку из гита"
+[avatar]: https://github.com/viktor-gorinskiy/esse/blob/master/images/ya100x150.jpg?raw=true "Ссылка на автарку из гита"
 [albom_aramil]: https://vk.com/album13737244_254164558/
 [black knives]:http://www.black-knives.ru/
 [my_git]:https://github.com/viktor-gorinskiy
